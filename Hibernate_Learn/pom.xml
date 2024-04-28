@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tut</groupId>
-	<artifactId>ProjecteithMaven</artifactId>
+	<artifactId>Hibernate_Learn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
